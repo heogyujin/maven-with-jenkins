@@ -68,6 +68,8 @@ public class SampleController {
                 System.out.println("올바른 명령어를 입력하세요");
             }
 
+            // 안녕하세요
+
         }
 
 
